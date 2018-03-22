@@ -78,6 +78,7 @@
         <module>coap-core</module>
         <module>lwm2m</module>
         <module>example-client</module>
+        <module>example-server</module>
     </modules>
 
     <dependencyManagement>
